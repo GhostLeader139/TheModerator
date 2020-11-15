@@ -1,2 +1,3 @@
-import from discord 
+import discord
+import os
 !help
