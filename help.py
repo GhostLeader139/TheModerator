@@ -1,3 +1,3 @@
 import discord
 import os
-!help
+hello_reply Hi im a python bot
